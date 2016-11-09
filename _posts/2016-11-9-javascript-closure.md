@@ -143,3 +143,7 @@ var myModule = (function(mod){
 ```
 
 > 默认一个空对象进去
+
+## 参考代码
+
+> https://github.com/hans007/JavaScriptCodes/tree/master/JS%E9%97%AD%E5%8C%85
