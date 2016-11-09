@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2012-11-24-c_on_android.md" afterPath="$PROJECT_DIR$/_drafts/2012-11-24-c_on_android.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-10-30-6lowpan_on_linux.md" afterPath="$PROJECT_DIR$/_drafts/2014-10-30-6lowpan_on_linux.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-15-qf9700_for_linux_3.0.8.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-15-qf9700_for_linux_3.0.8.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-16-sk_buff_analysis.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-16-sk_buff_analysis.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-18-delete_document_on_kindle_cloud.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-18-delete_document_on_kindle_cloud.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-20-Marvell88W8686_SPI_Interface.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-20-Marvell88W8686_SPI_Interface.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-26-pagination_on_jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-26-pagination_on_jekyll.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-30-get_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-30-get_vocore.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-31-failed_on_first_start_of_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-31-failed_on_first_start_of_vocore.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-10-compile_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-10-compile_openwrt.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-11-error_on_compiling_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-11-error_on_compiling_openwrt.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-11-helloworld_on_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-11-helloworld_on_openwrt.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-4-paginate_and_excerpt_on_jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-4-paginate_and_excerpt_on_jekyll.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-6-first_start_of_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-6-first_start_of_vocore.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-20-how-to-use-jacman.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-20-how-to-use-jacman.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-cpp-iterator-and-algorithm.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-cpp-iterator-and-algorithm.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-cpp-object-model-constructor.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-cpp-object-model-constructor.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-tools-for-jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-tools-for-jekyll.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-22-cpp-object-model-copy-constructor.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-22-cpp-object-model-copy-constructor.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-bit-endian-little-endian-bit-field.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-bit-endian-little-endian-bit-field.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-data-structure-alignmen.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-data-structure-alignmen.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-tcp-keepalive-timer.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-tcp-keepalive-timer.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-online.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-11-jekyll-editor-online.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-tutorial.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-11-jekyll-editor-tutorial.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-25-hp-chromebook-reviews.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-25-hp-chromebook-reviews.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-26-contiki-cygwin.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-26-contiki-cygwin.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-9-tool-for-jekyll-blog.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-9-tool-for-jekyll-blog.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-9-15-tcp-congestion.md" afterPath="$PROJECT_DIR$/_drafts/2015-9-15-tcp-congestion.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-9-21-new-blog-theme.md" afterPath="$PROJECT_DIR$/_drafts/2015-9-21-new-blog-theme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-10-24-optimized-openwrt-boot.md" afterPath="$PROJECT_DIR$/_drafts/2016-10-24-optimized-openwrt-boot.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-4-24-how-to-upload-to-ppa.md" afterPath="$PROJECT_DIR$/_drafts/2016-4-24-how-to-upload-to-ppa.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-4-24-web-weixin-on-linux.md" afterPath="$PROJECT_DIR$/_drafts/2016-4-24-web-weixin-on-linux.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-5-30-shadowsocks-ubuntu-eos-client.md" afterPath="$PROJECT_DIR$/_drafts/2016-5-30-shadowsocks-ubuntu-eos-client.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-6-28-netease-music-network-error-solved.md" afterPath="$PROJECT_DIR$/_drafts/2016-6-28-netease-music-network-error-solved.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-6-30-odd-baudrate-on-ubuntu.md" afterPath="$PROJECT_DIR$/_drafts/2016-6-30-odd-baudrate-on-ubuntu.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_partial/header.html" afterPath="$PROJECT_DIR$/_includes/_partial/header.html" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,52 +65,22 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+            <state relative-caret-position="209">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="after_footer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/_partial/after_footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="151" column="6" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2252">
-              <caret line="4" column="3021" selection-start-line="4" selection-start-column="3017" selection-end-line="4" selection-end-column="3021" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article_row.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_partial/article_row.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-5-30-shadowsocks-ubuntu-eos-client.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-5-30-shadowsocks-ubuntu-eos-client.md">
+      <file leaf-file-name="2016-11-9-javascript-closure.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="418">
-                <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <first_editor relative-caret-position="56">
+                <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,32 +88,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_partial/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="2012-11-24-c_on_android.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2012-11-24-c_on_android.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_partial/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_partial/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-357">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -118,6 +109,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_config.yml" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -125,6 +119,7 @@
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/_partial/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" />
       </list>
     </option>
   </component>
@@ -135,10 +130,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
+    <option name="x" value="32" />
     <option name="y" value="23" />
-    <option name="width" value="1641" />
-    <option name="height" value="1177" />
+    <option name="width" value="1410" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -165,6 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,7 +190,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="archives" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -207,104 +204,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_partial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="post" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hans007.GitHub.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_drafts" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +217,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_drafts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -339,6 +249,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -373,21 +289,21 @@
       <option name="presentableId" value="Default" />
       <updated>1478509003489</updated>
       <workItem from="1478509004789" duration="1146000" />
-      <workItem from="1478583116056" duration="4517000" />
+      <workItem from="1478583116056" duration="5502000" />
+      <workItem from="1478655532959" duration="1377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5663000" />
+    <option name="totallyTimeSpent" value="8025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1641" height="1177" extended-state="1" />
-    <editor active="false" />
+    <frame x="32" y="23" width="1410" height="877" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30493826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28653708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,6 +314,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -418,6 +335,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-4-15-qf9700_for_linux_3.0.8.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-7-31-failed_on_first_start_of_vocore.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="684">
+            <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3097">
@@ -444,11 +411,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-5-30-shadowsocks-ubuntu-eos-client.md">
+    <entry file="file://$PROJECT_DIR$/_drafts/2016-5-30-shadowsocks-ubuntu-eos-client.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -466,15 +432,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2252">
+        <state relative-caret-position="-3734">
           <caret line="4" column="3021" selection-start-line="4" selection-start-column="3017" selection-end-line="4" selection-end-column="3021" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +446,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_partial/after_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="149" column="31" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -494,19 +464,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-4-15-qf9700_for_linux_3.0.8.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-7-31-failed_on_first_start_of_vocore.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="684">
+            <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="437">
+            <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_partial/after_footer.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="151" column="6" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        <state relative-caret-position="209">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2012-11-24-c_on_android.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-357">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="56">
+            <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
