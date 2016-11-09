@@ -1,6 +1,6 @@
 ---
 layout: post
-title: javascript闭包实现 单例与非单例
+title: javascript模块研究之 - 闭包实现
 category: javascript
 tags: 
   - closure
@@ -86,3 +86,60 @@ log(val2);
 
 > 对象被new后，互不影响。
 > 适合可复用组件封装。
+
+## 如果想内部对象私有化
+
+代码:
+
+```javascript
+// 声明
+var myobjectModel = function () {
+     var instance = new Object();
+     instance.num = 0;
+
+     instance.add = function () {
+         instance.num ++;
+     };
+
+     instance.get = function () {
+         return instance.num;
+     };
+
+     return {
+         add : instance.add,
+         get : instance.get
+     };
+};
+```
+
+运行时:
+
+![闭包私有化](http://oflimcy5e.bkt.clouddn.com/closure.png)
+
+## 如果需要其它模块支持
+
+代码:
+
+```javascript
+var myModule = (function(mod){
+    
+    ...
+    
+})(otherModule);
+```
+
+> 对象作为参数传入
+
+## 如果各种原因模块没有载入成功
+
+代码:
+
+```javascript
+var myModule = (function(mod){
+    
+    ...
+    
+})(otherModule || {});
+```
+
+> 默认一个空对象进去

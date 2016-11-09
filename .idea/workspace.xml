@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2012-11-24-c_on_android.md" afterPath="$PROJECT_DIR$/_drafts/2012-11-24-c_on_android.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-10-30-6lowpan_on_linux.md" afterPath="$PROJECT_DIR$/_drafts/2014-10-30-6lowpan_on_linux.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-14-marvel_88w8686_wifi_linux_driver_analysis.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-15-qf9700_for_linux_3.0.8.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-15-qf9700_for_linux_3.0.8.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-16-sk_buff_analysis.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-16-sk_buff_analysis.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-18-delete_document_on_kindle_cloud.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-18-delete_document_on_kindle_cloud.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-4-20-Marvell88W8686_SPI_Interface.md" afterPath="$PROJECT_DIR$/_drafts/2014-4-20-Marvell88W8686_SPI_Interface.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-26-pagination_on_jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-26-pagination_on_jekyll.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-30-get_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-30-get_vocore.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-7-31-failed_on_first_start_of_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-7-31-failed_on_first_start_of_vocore.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-10-compile_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-10-compile_openwrt.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-11-error_on_compiling_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-11-error_on_compiling_openwrt.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-11-helloworld_on_openwrt.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-11-helloworld_on_openwrt.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-4-paginate_and_excerpt_on_jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-4-paginate_and_excerpt_on_jekyll.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-8-6-first_start_of_vocore.md" afterPath="$PROJECT_DIR$/_drafts/2014-8-6-first_start_of_vocore.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-20-how-to-use-jacman.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-20-how-to-use-jacman.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-cpp-iterator-and-algorithm.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-cpp-iterator-and-algorithm.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-cpp-object-model-constructor.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-cpp-object-model-constructor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-21-tools-for-jekyll.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-21-tools-for-jekyll.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-22-cpp-object-model-copy-constructor.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-22-cpp-object-model-copy-constructor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-22-difference-between-tcp-vs-udp-protocol.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-bit-endian-little-endian-bit-field.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-bit-endian-little-endian-bit-field.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-data-structure-alignmen.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-data-structure-alignmen.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-23-tcp-keepalive-timer.md" afterPath="$PROJECT_DIR$/_drafts/2015-09-23-tcp-keepalive-timer.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-online.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-11-jekyll-editor-online.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-11-jekyll-editor-tutorial.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-11-jekyll-editor-tutorial.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-25-hp-chromebook-reviews.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-25-hp-chromebook-reviews.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-26-contiki-cygwin.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-26-contiki-cygwin.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-9-tool-for-jekyll-blog.md" afterPath="$PROJECT_DIR$/_drafts/2015-10-9-tool-for-jekyll-blog.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-9-15-tcp-congestion.md" afterPath="$PROJECT_DIR$/_drafts/2015-9-15-tcp-congestion.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-9-21-new-blog-theme.md" afterPath="$PROJECT_DIR$/_drafts/2015-9-21-new-blog-theme.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-10-24-optimized-openwrt-boot.md" afterPath="$PROJECT_DIR$/_drafts/2016-10-24-optimized-openwrt-boot.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-4-24-how-to-upload-to-ppa.md" afterPath="$PROJECT_DIR$/_drafts/2016-4-24-how-to-upload-to-ppa.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-4-24-web-weixin-on-linux.md" afterPath="$PROJECT_DIR$/_drafts/2016-4-24-web-weixin-on-linux.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-5-30-shadowsocks-ubuntu-eos-client.md" afterPath="$PROJECT_DIR$/_drafts/2016-5-30-shadowsocks-ubuntu-eos-client.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-6-28-netease-music-network-error-solved.md" afterPath="$PROJECT_DIR$/_drafts/2016-6-28-netease-music-network-error-solved.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-6-30-odd-baudrate-on-ubuntu.md" afterPath="$PROJECT_DIR$/_drafts/2016-6-30-odd-baudrate-on-ubuntu.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" afterPath="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,8 +42,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="56">
-                <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+              <first_editor relative-caret-position="305">
+                <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -132,8 +95,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="32" />
     <option name="y" value="23" />
-    <option name="width" value="1410" />
-    <option name="height" value="877" />
+    <option name="width" value="1259" />
+    <option name="height" value="841" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -290,18 +253,18 @@
       <updated>1478509003489</updated>
       <workItem from="1478509004789" duration="1146000" />
       <workItem from="1478583116056" duration="5502000" />
-      <workItem from="1478655532959" duration="1377000" />
+      <workItem from="1478655532959" duration="3841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8025000" />
+    <option name="totallyTimeSpent" value="10489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="23" width="1410" height="877" extended-state="1" />
+    <frame x="32" y="23" width="1259" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28653708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32148626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -542,8 +505,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="56">
-            <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <first_editor relative-caret-position="305">
+            <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
