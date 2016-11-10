@@ -15,7 +15,7 @@ tags:
 > 3. 代码之间不会互相污染
 > 4. 提高复用性
 
-## `单例`闭包
+## 单例闭包
 
 代码:
 
@@ -44,7 +44,7 @@ var val = myobjectModel.get();
 
 > 直接对象访问 无需 new , 特别适合功能对象函数
 
-## `非单例`闭包
+## 非单例闭包
 
 代码:
 
@@ -87,7 +87,7 @@ log(val2);
 > 对象被new后，互不影响。
 > 适合可复用组件封装。
 
-## 如果想内部对象`私有化`
+## 如果想内部对象私有化
 
 代码:
 
@@ -147,3 +147,7 @@ var myModule = (function(mod){
 ## 参考代码
 
 > https://github.com/hans007/JavaScriptCodes/tree/master/JS%E9%97%AD%E5%8C%85
+
+
+
+[我的博客](https://hans007.github.io)
