@@ -190,6 +190,8 @@ define(['module1'],function (mod1) {
 });
 ```
 
+define(['module1'] 第一个参数就是依赖的模块文件名。
+
 对象被传入后，直接扩展，最后返回被修改的对象。
 
 - 主界面html
