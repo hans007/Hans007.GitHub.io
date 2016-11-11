@@ -66,7 +66,7 @@ define方式包裹一个 function。
 
 ```javascript
 // 第一次调用
-require(['../lib/module1'], function (mod1){
+require(['lib/module1'], function (mod1){
 
     mod1.add();
     mod1.add();
@@ -74,7 +74,7 @@ require(['../lib/module1'], function (mod1){
 });
 
 // 第二次调用
-require(['../lib/module1'], function (mod1){
+require(['lib/module1'], function (mod1){
 
     mod1.add();
     mod1.add();
@@ -138,7 +138,7 @@ define(function () {
 
 ```javascript
 // 第一次调用
-require(['../lib/module2'], function (mod2){
+require(['lib/module2'], function (mod2){
 
     var mod = mod2();
     mod.add();
@@ -149,7 +149,7 @@ require(['../lib/module2'], function (mod2){
 });
 
 // 第二次调用
-require(['../lib/module2'], function (mod2){
+require(['lib/module2'], function (mod2){
 
     var mod = mod2();
     mod.add();
@@ -207,7 +207,7 @@ define(['module1'] 第一个参数就是依赖的模块文件名。
 ```javascript
 // 配置
 require.config({
-    baseUrl: "../lib/"
+    baseUrl: "lib/"
 });
 
 // 第一次调用
