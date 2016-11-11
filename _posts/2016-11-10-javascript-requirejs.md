@@ -277,7 +277,7 @@ require(['jquery'], function (jq){
 });
 ```
 
-paths 是以别名的方式指定文件路径。
+paths 指定文件路径。
 
 require的时候直接用别名就行。
 
