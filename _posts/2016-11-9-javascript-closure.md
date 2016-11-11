@@ -148,6 +148,4 @@ var myModule = (function(mod){
 
 > https://github.com/hans007/JavaScriptCodes/tree/master/JS%E9%97%AD%E5%8C%85
 
-
-
 [我的博客](https://hans007.github.io)
