@@ -3,14 +3,14 @@ layout: post
 title: javascript模块研究之 - AMD模式 requirejs使用
 category: javascript
 tags: 
-  - requirejs
+  - requirejs AMD
 ---
 
 # 前言 - 什么是 AMD 模式
 
-AMD是"Asynchronous Module Definition"的缩写，意思就是"异步模块定义"。
+AMD是 `Asynchronous Module Definition` 的缩写，意思就是`异步模块加载规范`。
 
-说白了就是先装载模块再使用，AMD 模式的 需要载入 `requirejs` 这个包, 浏览器兼容ie6+ 所以放心用吧。
+AMD 模式的 需要载入 `requirejs` 这个包, 浏览器兼容ie6+ 所以放心用吧。
 
 > 下载地址 http://requirejs.org/
 
