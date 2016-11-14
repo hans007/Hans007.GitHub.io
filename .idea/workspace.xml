@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" afterPath="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" afterPath="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
@@ -29,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="647">
-                <caret line="290" column="0" selection-start-line="290" selection-start-column="0" selection-end-line="294" selection-end-column="33" />
+              <first_editor relative-caret-position="133">
+                <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="456">
-                <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+              <first_editor relative-caret-position="133">
+                <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="704">
-                <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+              <first_editor relative-caret-position="67">
+                <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -90,8 +91,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" />
         <option value="$PROJECT_DIR$/_includes/_partial/analytics.html" />
-        <option value="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" />
       </list>
     </option>
   </component>
@@ -266,12 +267,12 @@
       <workItem from="1478756444859" duration="8317000" />
       <workItem from="1478832489659" duration="779000" />
       <workItem from="1478834807173" duration="617000" />
-      <workItem from="1479108901274" duration="6455000" />
+      <workItem from="1479108901274" duration="6665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29020000" />
+    <option name="totallyTimeSpent" value="29230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="1502" height="1131" extended-state="0" />
@@ -673,11 +674,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="647">
-            <caret line="290" column="0" selection-start-line="290" selection-start-column="0" selection-end-line="294" selection-end-column="33" />
+          <first_editor relative-caret-position="67">
+            <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
@@ -687,11 +688,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="704">
-            <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -704,8 +705,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="456">
-            <caret line="302" column="0" selection-start-line="302" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />

@@ -3,7 +3,8 @@ layout: post
 title: javascript模块研究之 - CMD模式 seajs使用
 category: javascript
 tags: 
-  - seajs CMD
+  - seajs
+  - CMD
 ---
 
 # 前言 - 什么是 CMD 模式

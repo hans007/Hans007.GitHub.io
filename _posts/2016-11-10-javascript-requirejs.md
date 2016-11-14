@@ -3,7 +3,8 @@ layout: post
 title: javascript模块研究之 - AMD模式 requirejs使用
 category: javascript
 tags: 
-  - requirejs AMD
+  - requirejs
+  - AMD
 ---
 
 # 前言 - 什么是 AMD 模式
