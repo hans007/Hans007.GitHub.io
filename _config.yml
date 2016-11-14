@@ -39,8 +39,8 @@ defaults:
 ##### Menu
 menu:
   首页: /
-  文章: /archives
-  分类: /tags
+  分类: /categories
+  标签: /tags
   关于: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
