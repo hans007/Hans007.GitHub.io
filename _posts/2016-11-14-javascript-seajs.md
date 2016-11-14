@@ -17,11 +17,13 @@ CMD 模式的 需要载入 `Sea.js` 这个包, 浏览器兼容ie5.5+ 所以放�
 模块定义方式:
 
 ```javascript
-define(function (require, exports, module) {
+define("ID",["依赖模块"],function (require, exports, module) {
 
 });
 ```
 
+> ID 当前模块的唯一
+> ["..."] 依赖模块
 > require 用来载入其它模块
 > exports 导出方法
 > module 导出模块
@@ -305,9 +307,9 @@ define("lib/module4-ui", ["jquery"], function(require, exports, module) {
 
 同样你要用相关依赖jquery的插件，也需要修改相关代码。
 
-我这里修改了一个确认对话框 ![artDialog](https://github.com/aui/artDialog)
+我这里修改了一个确认对话框插件 [artDialog](https://github.com/aui/artDialog)
 
-- 修改 `artDialog`
+- 修改插件主程序 `dialog.js`
 
 ```javascript
 define("lib/artDialog/dialog", ["jquery"], function (require, exports, module) {
