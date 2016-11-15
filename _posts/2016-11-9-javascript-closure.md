@@ -1,7 +1,7 @@
 ---
 layout: post
-title: javascript模块化研究之 - 闭包实现
-category: javascript模块化研究
+title: JavaScript模块化研究之 - 闭包实现
+category: JavaScript模块化研究
 tags: 
   - javascript
   - closure

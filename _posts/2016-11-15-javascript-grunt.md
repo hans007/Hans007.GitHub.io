@@ -7,7 +7,7 @@ tags:
   - Grunt
 ---
 
-# 0. 前言 - Grunt 到底是啥?
+# 前言 - Grunt 到底是啥?
 
 ![grunt](http://oflimcy5e.bkt.clouddn.com/grunt%E6%A0%87%E5%BF%97.png)
 
@@ -17,9 +17,9 @@ tags:
 
 是一个js开发框架，具体功能是以安装插件的形式实现的，所以扩展性无限。
 
-## 1. 安装
+## 安装
 
-### 1.1 安装 node.js
+### 安装 node.js
 
 Grunt是基于Node.js为基础的，所以没装node.js的需要安装下。
 
@@ -33,15 +33,15 @@ npm update -g npm
 
 > macos 下加 sudo
 
-### 1.2 安装 Grunt CLI
+### 安装 Grunt CLI
 
 ```
 npm install -g grunt-cli
 ```
 
-## 2. 配置我们第一个项目
+## 配置我们第一个项目
 
-### 2.1 建立项目目录
+### 建立项目目录
 
 ```
 /grunt-do
@@ -54,7 +54,7 @@ npm install -g grunt-cli
 > css 开发的css代码
 > dist 发布代码
 
-### 2.2 根目录下创建 `package.json`
+### 根目录下创建 `package.json`
 
 ```
 {
@@ -85,7 +85,7 @@ npm install grunt --save-dev
 
 > 多了个 `node_modules` 的目录，有空可以阅读下,暂时我们无视这个目录。
 
-### 2.3 根目录下创建 `Gruntfile.js`
+### 根目录下创建 `Gruntfile.js`
 
 ```
 module.exports = function(grunt) {
@@ -100,27 +100,49 @@ module.exports = function(grunt) {
 > 这是Grunt的配置文件
 > initConfig初始pkg属性，这都是套路，读取上面的package.json
 
-## 3. 插件功能
+## 插件功能
 
-### 3.1 压缩js代码
+### 压缩js代码
 
-### 3.2 压缩css代码
+### 压缩css代码
 
-### 3.3 合并代码
+### 合并代码
 
-### 3.4 代码检查
+### 代码检查
 
-### 3.5 代码测试
+### 代码测试
 
-### 3.6 CMD模式代码发布
+### CMD模式代码发布
 
-### 3.7 监控文件变化
+### 监控文件变化
 
-### 3.8 清除中间文件
+### 清除中间文件
 
-## 4. 配置git上传
+## 配置git上传
 
-## 5. 拿到一个现有项目
+- 添加 `.gitignore` 配置文件
+
+过滤掉`node_modules`目录
+
+```
+node_modules/
+```
+
+## 拿到一个现有项目
+
+- 安装需要的包文件
+
+```
+npm install
+```
+
+- 查看 `Gruntfile.js` 的 `grunt.registerTask` 定义
+
+> 执行`grunt`看看是否有错误
+
+```
+grunt
+```
 
 ## 参考代码
 

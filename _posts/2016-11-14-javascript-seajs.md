@@ -1,7 +1,7 @@
 ---
 layout: post
-title: javascript模块化研究之 - CMD模式 seajs使用
-category: javascript模块化研究
+title: JavaScript模块化研究之 - CMD模式 seajs使用
+category: JavaScript模块化研究
 tags: 
   - javascript
   - seajs
