@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" afterPath="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" afterPath="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md" afterPath="$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" afterPath="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="607">
-                <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+              <first_editor relative-caret-position="18">
+                <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -260,12 +256,12 @@
       <workItem from="1478756444859" duration="8317000" />
       <workItem from="1478832489659" duration="779000" />
       <workItem from="1478834807173" duration="617000" />
-      <workItem from="1479108901274" duration="14363000" />
+      <workItem from="1479108901274" duration="14533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36928000" />
+    <option name="totallyTimeSpent" value="37098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="23" width="1305" height="877" extended-state="0" />
@@ -721,8 +717,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="607">
-            <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <first_editor relative-caret-position="18">
+            <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
