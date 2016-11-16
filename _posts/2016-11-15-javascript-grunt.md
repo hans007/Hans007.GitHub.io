@@ -17,6 +17,8 @@ tags:
 
 是一个js开发框架，具体功能是以安装插件的形式实现的，所以扩展性无限。
 
+---
+
 # 安装
 
 ## 安装 node.js
@@ -38,6 +40,8 @@ npm update -g npm
 ```
 npm install -g grunt-cli
 ```
+
+---
 
 # 配置我们第一个项目
 
@@ -99,14 +103,149 @@ module.exports = function(grunt) {
 
 > 这是Grunt的配置文件
 > initConfig初始pkg属性，这都是套路，读取上面的package.json
+>
 
 # 插件
 
-## 压缩js代码
-
-## 压缩css代码
+上面我们完成了项目的初始，具体的工作grunt都是以插件的形式实现的。
 
 ## 合并代码
+
+- 编写1个js文件
+
+src/mods/module1.js
+
+```javascript
+// 模块1
+define(function(require, exports, module) {
+
+    console.log("module1 被装载~");
+
+    exports.num = 10;
+
+    exports.add = function(){
+        this.num ++;
+    };
+
+    exports.get = function(){
+        return this.num;
+    };
+
+});
+```
+
+src/mods/module2.js
+
+```javascript
+// 模块2
+define(function(require, exports, module) {
+
+    console.log("module2 被装载~");
+
+    exports.num = 10;
+
+    exports.add = function(){
+        this.num ++;
+    };
+
+    exports.get = function(){
+        return this.num;
+    };
+
+});
+```
+
+- 安装插件
+
+命令行
+
+```
+npm install grunt-contrib-concat --save-dev
+```
+
+- 编写 Gruntfile.js
+
+```
+module.exports = function(grunt) {
+
+    grunt.initConfig({
+        pkg: grunt.file.readJSON('package.json'),
+
+        // 合并
+        concat:{
+            options:{
+                separator:'\n',
+                banner:'//model合并 \n',
+                footer:'\n//--- end ---',
+            },
+            myapp:{
+                src:['src/mods/*.js'],
+                dest:'dist/<%= pkg.version %>/module.js'
+            }
+        },
+    });
+
+    grunt.loadNpmTasks('grunt-contrib-concat');
+
+    grunt.registerTask('test', ['concat']);
+};
+```
+
+- 运行&输出
+
+命令行
+
+```
+grunt test
+```
+
+查看合并后的文件 dist/<版本号>/module.js
+
+```
+//model合并 
+// 模块1
+define(function(require, exports, module) {
+
+    console.log("module1 被装载~");
+
+    exports.num = 10;
+
+    exports.add = function(){
+        this.num ++;
+    };
+
+    exports.get = function(){
+        return this.num;
+    };
+
+});
+// 模块2
+define(function(require, exports, module) {
+
+    console.log("module2 被装载~");
+
+    exports.num = 10;
+
+    exports.add = function(){
+        this.num ++;
+    };
+
+    exports.get = function(){
+        return this.num;
+    };
+
+});
+//--- end ---
+```
+
+---
+---
+
+## 压缩js代码
+
+
+
+## 压缩css代码
 
 ## 代码检查
 
@@ -118,9 +257,7 @@ module.exports = function(grunt) {
 
 ## 清除中间文件
 
-# 配置git上传
-
-- 添加 `.gitignore` 配置文件
+# 配置git `.gitignore`
 
 过滤掉`node_modules`目录
 
