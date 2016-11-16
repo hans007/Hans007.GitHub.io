@@ -17,6 +17,8 @@ tags:
 
 是一个js开发框架，具体功能是以安装插件的形式实现的，所以扩展性无限。
 
+# 安装
+
 ## 安装 node.js
 
 Grunt是基于Node.js为基础的，所以没装node.js的需要安装下。
@@ -37,9 +39,9 @@ npm update -g npm
 npm install -g grunt-cli
 ```
 
-## 配置我们第一个项目
+# 配置我们第一个项目
 
-- 建立项目目录
+## 建立项目目录
 
 ```
 /grunt-do
@@ -52,7 +54,7 @@ npm install -g grunt-cli
 > css 开发的css代码
 > dist 发布代码
 
-- 根目录下创建 `package.json`
+## 根目录下创建 `package.json`
 
 ```
 {
@@ -63,7 +65,7 @@ npm install -g grunt-cli
 }
 ```
 
-- 安装Grunt
+## 安装Grunt
 
 ```
 npm install grunt --save-dev
@@ -83,7 +85,7 @@ npm install grunt --save-dev
 
 > 多了个 `node_modules` 的目录，有空可以阅读下,暂时我们无视这个目录。
 
-- 根目录下创建 `Gruntfile.js`
+## 根目录下创建 `Gruntfile.js`
 
 ```
 module.exports = function(grunt) {
@@ -97,6 +99,8 @@ module.exports = function(grunt) {
 
 > 这是Grunt的配置文件
 > initConfig初始pkg属性，这都是套路，读取上面的package.json
+
+# 插件
 
 ## 压缩js代码
 
@@ -114,7 +118,7 @@ module.exports = function(grunt) {
 
 ## 清除中间文件
 
-## 配置git上传
+# 配置git上传
 
 - 添加 `.gitignore` 配置文件
 
@@ -124,7 +128,7 @@ module.exports = function(grunt) {
 node_modules/
 ```
 
-## 拿到一个现有项目
+# 拿到一个现有项目
 
 - 安装需要的包文件
 
@@ -140,7 +144,7 @@ npm install
 grunt
 ```
 
-## 参考代码
+# 参考代码
 
 >
 
