@@ -1,9 +1,10 @@
 ---
 layout: post
-title: JavaScript的构建工具 - Grunt
-category: JavaScript的构建工具
+title: 前端自动化构建工具 - Grunt
+category: 前端自动化构建工具
 tags: 
-  - javascript
+  - 前端
+  - 构建工具
   - Grunt
 ---
 
