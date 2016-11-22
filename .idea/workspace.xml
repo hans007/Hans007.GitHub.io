@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md" afterPath="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="76">
-                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <first_editor relative-caret-position="574">
+                <caret line="707" column="0" selection-start-line="707" selection-start-column="0" selection-end-line="707" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-11-21-fis3-setup-01.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-11-21-fis3-setup-01.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="213">
-                <caret line="288" column="2" selection-start-line="288" selection-start-column="2" selection-end-line="288" selection-end-column="2" />
+              <first_editor relative-caret-position="271">
+                <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,6 +55,16 @@
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="8" column="3705" selection-start-line="8" selection-start-column="3705" selection-end-line="8" selection-end-column="3705" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -77,10 +87,10 @@
         <option value="$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-14-javascript-seajs.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-9-javascript-closure.md" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -137,6 +147,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Hans007.GitHub.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hans007.GitHub.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hans007.GitHub.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hans007.GitHub.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hans007.GitHub.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,12 +294,12 @@
       <workItem from="1479361496415" duration="1445000" />
       <workItem from="1479712289966" duration="3268000" />
       <workItem from="1479719976018" duration="2724000" />
-      <workItem from="1479781782157" duration="1264000" />
+      <workItem from="1479781782157" duration="2569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59307000" />
+    <option name="totallyTimeSpent" value="60612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="23" width="1406" height="877" extended-state="0" />
@@ -758,13 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-10-javascript-requirejs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -807,8 +842,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <first_editor relative-caret-position="574">
+            <caret line="707" column="0" selection-start-line="707" selection-start-column="0" selection-end-line="707" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
@@ -821,8 +856,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="213">
-            <caret line="288" column="2" selection-start-line="288" selection-start-column="2" selection-end-line="288" selection-end-column="2" />
+          <first_editor relative-caret-position="271">
+            <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
@@ -830,6 +865,14 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="8" column="3705" selection-start-line="8" selection-start-column="3705" selection-end-line="8" selection-end-column="3705" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
