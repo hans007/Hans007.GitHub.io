@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5403112d-e88a-4dbf-9d77-a997493d009b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md" afterPath="$PROJECT_DIR$/_posts/2016-11-15-javascript-grunt.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md" afterPath="$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md" />
     </list>
     <ignored path="Hans007.GitHub.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="190">
-                <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <first_editor relative-caret-position="213">
+                <caret line="288" column="2" selection-start-line="288" selection-start-column="2" selection-end-line="288" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -252,15 +252,15 @@
       <workItem from="1479361496415" duration="1445000" />
       <workItem from="1479712289966" duration="3268000" />
       <workItem from="1479719976018" duration="2724000" />
-      <workItem from="1479781782157" duration="970000" />
+      <workItem from="1479781782157" duration="1264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59013000" />
+    <option name="totallyTimeSpent" value="59307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1406" height="877" extended-state="6" />
+    <frame x="34" y="23" width="1406" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24765342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -821,8 +821,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-21-fis3-setup-01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <first_editor relative-caret-position="213">
+            <caret line="288" column="2" selection-start-line="288" selection-start-column="2" selection-end-line="288" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
