@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习笔记 - 第一节:安装并运行helloword!
-category: nodejs学习笔记
+title: nodejs学习资料 - 第一节:安装并运行helloword!
+category: nodejs学习资料
 tags:
   - nodejs
 ---
