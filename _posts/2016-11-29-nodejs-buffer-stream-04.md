@@ -235,6 +235,10 @@ fs.createReadStream('input.txt.gz')
 console.log("文件解压完成。");
 ```
 
+## 参考手册
+
+> https://nodejs.org/api/stream.html
+
 # 调试工具
 
 > npm install -g devtool
