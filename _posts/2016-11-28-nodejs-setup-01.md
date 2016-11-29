@@ -14,21 +14,21 @@ tags:
 - 升级
 
 ```
-sudo npm install npm -g
+$ sudo npm install npm -g
 ```
 
 # 测试环境 helloword
 
 - 新建文件 helloword.js
 
-```
+```javascript
 console.log("helloword!");
 ```
 
 - 运行
 
 ```
-node helloword.js
+$ node helloword.js
 ```
 
 - 输出
@@ -41,7 +41,7 @@ helloword
 
 - 新建文件 webserver.js
 
-```
+```javascript
 var http = require("http")
 http.createServer(function(request, response){
   response.writeHead(200,{'content-Type':'text/plain'});
@@ -57,7 +57,7 @@ console.log('web server is running! http://127.0.0.1:8888/');
 - 运行
 
 ```
-node webserver.js
+$ node webserver.js
 ```
 
 - 输出
