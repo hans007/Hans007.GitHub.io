@@ -136,6 +136,8 @@ server.start(router.route);
 $ node main.js
 ```
 
+> 浏览器输入 http://127.0.0.1:8888/
+
 - 输出
 
 ```
