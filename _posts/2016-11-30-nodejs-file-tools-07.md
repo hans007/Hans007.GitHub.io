@@ -584,6 +584,7 @@ fs.symlink(srcpath, dstpath[, type], callback)	|异步 symlink().回调函数没
 > https://nodejs.org/dist/latest-v7.x/docs/api/os.htm
 
 - 方法
+
 方法 | 描述
 --------------------------|--------------------------------------
 os.tmpdir()	              | 返回操作系统的默认临时文件夹。
@@ -660,6 +661,7 @@ net.isIPv6(input)	|如果输入的地址为 IPV6， 返回 true，否则返回 f
 - net.Server
 
 方法	|描述
+---|---
 server.listen(port[, host][, backlog][, callback])	|监听指定端口 port 和 主机 host ac连接。 默认情况下 host 接受任何 IPv4 地址(INADDR_ANY)的直接连接。端口 port 为 0 时，则会分配一个随机端口。
 server.listen(path[, callback])	|通过指定 path 的连接，启动一个本地 socket 服务器。
 server.listen(handle[, callback])	|通过指定句柄连接。
@@ -671,6 +673,7 @@ server.ref()	|与 unref 相反，如果这是唯一的服务器，在之前被 u
 server.getConnections(callback)	|异步获取服务器当前活跃连接的数量。当 socket 发送给子进程后才有效；回调函数有 2 个参数 err 和 count。
 
 事件	|描述
+---|---
 listening	|当服务器调用 server.listen 绑定后会触发。
 connection	|当新连接创建后会被触发。socket 是 net.Socket实例。
 close	|服务器关闭时会触发。注意，如果存在连接，这个事件不会被触发直到所有的连接关闭。
