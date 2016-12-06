@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第五节:模块系统&函数&路由
-category: nodejs学习资料
+title: nodejs - 第五节:模块系统&函数&路由
+category: nodejs
 tags:
   - nodejs
 ---

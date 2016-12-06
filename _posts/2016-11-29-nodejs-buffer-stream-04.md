@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第四节:Buffer&Stream
-category: nodejs学习资料
+title: nodejs - 第四节:Buffer&Stream
+category: nodejs
 tags:
   - nodejs
 ---

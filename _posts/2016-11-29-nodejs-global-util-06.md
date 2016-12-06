@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第六节:全局对象与全局变量&常用工具
-category: nodejs学习资料
+title: nodejs - 第六节:全局对象与全局变量&常用工具
+category: nodejs
 tags:
   - nodejs
 ---

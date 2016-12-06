@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第八节:ECMAScript语言整理
-category: nodejs学习资料
+title: nodejs - 第八节:ECMAScript语言整理
+category: nodejs
 tags:
   - nodejs
 ---

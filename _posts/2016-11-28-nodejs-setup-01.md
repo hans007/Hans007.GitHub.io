@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第一节:安装并运行helloword!
-category: nodejs学习资料
+title: nodejs - 第一节:安装并运行helloword!
+category: nodejs
 tags:
   - nodejs
 ---

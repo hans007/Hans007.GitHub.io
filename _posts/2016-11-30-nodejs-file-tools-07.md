@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第七节:文件系统&工具模块
-category: nodejs学习资料
+title: nodejs - 第七节:文件系统&工具模块
+category: nodejs
 tags:
   - nodejs
 ---

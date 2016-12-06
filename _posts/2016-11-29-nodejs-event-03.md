@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs学习资料 - 第三节:回调函数&事件循环
-category: nodejs学习资料
+title: nodejs - 第三节:回调函数&事件循环
+category: nodejs
 tags:
   - nodejs
 ---
