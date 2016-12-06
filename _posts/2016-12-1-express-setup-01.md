@@ -1,7 +1,7 @@
 ---
 layout: post
-title: nodejs+express - 第一节:安装&运行&调试
-category: nodejs+express
+title: express - 第一节:安装&运行&调试
+category: express
 tags:
   - nodejs
 ---
