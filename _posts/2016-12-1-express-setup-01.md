@@ -1,7 +1,7 @@
 ---
 layout: post
-title: express学习资料 - 第一节:安装&运行&调试
-category: express学习资料
+title: nodejs+express - 第一节:安装&运行&调试
+category: nodejs+express
 tags:
   - nodejs
 ---
