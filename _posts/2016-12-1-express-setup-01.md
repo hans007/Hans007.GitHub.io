@@ -36,7 +36,7 @@ npm install express --save
 
 - 查看package.json
 
-```javascript
+```json
 {
   "name": "webserver-do",
   "version": "1.0.0",
