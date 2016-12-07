@@ -107,6 +107,12 @@ esac
 # description: Start and Stop redis
 ```
 
+## 设置权限
+
+```
+$ chmod 755 redis
+```
+
 ## 测试
 
 - 启动
