@@ -97,10 +97,17 @@ $ netstat -lntp | grep 27017
 
 ![User Management](https://camo.githubusercontent.com/4c0d09324a4265a0f11cbe9d22b160a05e4be7c2/687474703a2f2f6d6f6e676f636c69656e742e636f6d2f696d672f73732f756d2e706e67)
 
-## rockmongo
+## Robomongo
 
-> http://rockmongo.com/
-> 需要PHP环境
+> https://robomongo.org/
+
+![](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
+
+# MongoChef
+
+> http://3t.io/mongochef/
+
+![](http://cdn-web.3t.io/wp-content/uploads/mongochef-aggregation-builder-1030x619.png?x65752)
 
 
 
