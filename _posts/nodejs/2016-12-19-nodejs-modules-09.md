@@ -6,6 +6,17 @@ tags:
   - nodejs
 ---
 
+# 第三方模块
+
+## array
+
+> 数组array
+> https://www.npmjs.com/package/array
+
+## string format
+
+> 字符串格式化
+> https://www.npmjs.com/package/string-format
 
 ## config-lite
 
@@ -26,7 +37,6 @@ tags:
 
 > client-side HTTP request library
 > https://www.npmjs.com/package/superagent
-
 
 ## cheerio
 
@@ -56,7 +66,28 @@ tags:
 > https://www.npmjs.com/package/eventproxy
 > https://github.com/JacksonTian/eventproxy
 
+## mongolass
 
+> mongodb lib ^2.3.3
+> https://www.npmjs.com/package/mongolass
+
+#  another-json-schema
+
+> 定义数据模型
+> https://github.com/nswbmw/another-json-schema
+>
+> 数据模型定义json
+> https://docs.mongodb.com/manual/data-modeling/
+
+# mongoose
+
+> http://mongoosejs.com/
+> https://github.com/Automattic/mongoose
+
+# string
+
+> http://stringjs.com
+> https://www.npmjs.com/package/string
 
 
 
