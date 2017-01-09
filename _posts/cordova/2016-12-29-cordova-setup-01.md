@@ -210,35 +210,12 @@ drwxr-xr-x  6 hans  staff  204 12 29 11:09 www
 cordova platform add ios --save
 ```
 
-输出
-
-```
-Adding ios project...
-Creating Cordova project for the iOS platform:
-	Path: platforms/ios
-	Package: com.myapp.mobile
-	Name: myMobileApp
-iOS project created with cordova-ios@4.3.1
-Discovered plugin "cordova-plugin-whitelist" in config.xml. Adding it to the project
-Fetching plugin "cordova-plugin-whitelist@1" via npm
-Installing "cordova-plugin-whitelist" for ios
-Saved plugin info for "cordova-plugin-whitelist" to config.xml
---save flag or autosave detected
-Saving ios@~4.3.1 into config.xml file ...
-```
-
 - android
 
 命令输入
 
 ```
 cordova platform add android --save
-```
-
-输出
-
-```
-
 ```
 
 ## 3. 更新平台代码
