@@ -11,6 +11,14 @@ tags:
 > https://nodejs.org/en/download/
 > 建议用安装包
 
+
+- 命令行方式
+
+```
+yum -y install nodejs
+yum install nodejs npm
+```
+
 - 升级
 
 ```

@@ -124,9 +124,6 @@ setImmediate   |
 timeout        |
 unmemoize      | 让已经被缓存的函数，返回不缓存的函数引用。
 
-## 示例
-
-
 
 
 
