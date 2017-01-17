@@ -15,8 +15,21 @@ tags:
 - 命令行方式
 
 ```
+yum install -y gcc-c++ make
+curl -sL https://rpm.nodesource.com/setup_6.x | sudo -E bash -
+
 yum -y install nodejs
-yum install nodejs npm
+yum -y install nodejs npm
+```
+
+- 如果安装冲突 建议删除安装
+
+```
+yum remove nodejs npm -y
+
+- 清理目录
+/usr/local/lib
+/usr/local/include
 ```
 
 - 升级

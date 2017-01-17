@@ -71,7 +71,7 @@ tags:
 > mongodb lib ^2.3.3
 > https://www.npmjs.com/package/mongolass
 
-#  another-json-schema
+# another-json-schema
 
 > 定义数据模型
 > https://github.com/nswbmw/another-json-schema
@@ -83,6 +83,10 @@ tags:
 
 > http://mongoosejs.com/
 > https://github.com/Automattic/mongoose
+
+# mysql
+
+> https://github.com/mysqljs/mysql
 
 # string
 
