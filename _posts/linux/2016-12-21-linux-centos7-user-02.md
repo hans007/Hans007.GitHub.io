@@ -24,6 +24,21 @@ passwd yuu
 vi /etc/passwd
 ```
 
+## 设置目录所有者
+
+```
+chown -R yuu:yuu yuumanage
+```
+
+> -R 所有子目录
+
+## 设置用户组
+
+
+
+
+
+
 
 
 [我的博客](https://hans007.github.io)
