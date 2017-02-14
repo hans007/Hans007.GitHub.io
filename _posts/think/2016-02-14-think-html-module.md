@@ -68,7 +68,7 @@ hover、focus、disabled
 
 - 前端打包及构建工具
 
-fis/webpackage/glup/grunt
+fis3
 
 - css模块化
 
@@ -85,29 +85,58 @@ npm
 
 ## 目录设计
 
+> 带 * 目录/文件 名都是固定的
+
 目录名称                   | 说明
 --------------------------|---------------------------------
-/components               |
-  /css-module             |
-  /js-module              |
-  /ui-module              |
-    /header               |
-      /header.html        |
-      /header.js          |
-      /header.css         |
-      /logo.png           |
+/node_modules             | * node包管理目录（静态前端项目不要启用）
+/plugins                  | * 手动下载整理的第三方包目录
+  /bootstrap              | 手动整理的 bootstrap
+  /jquery                 | 手动整理的 jquery
+  /jqueryui               | 手动整理的 jqueryui
+/components               | * 项目组件目录
+  /css-modules            | * css模块目录
+    /bootstrap-sass       | bootstrap 重写元素目录
+  /js-modules             | * js模块化目录
+    /app.config.js        | 项目配置js文件
+    /ajax.js              | ajax调用js文件
+  /ui-modules             | * 前端模块目录
+    /header               | 一个组件一个目录(独立)
+      /setup.json         | * 组件呈现用的默认json文件
+      /header.html        | 存放组件的所有文件
+      /header.js          | 组件的js文件
+      /header.sass        | 可编译的 sass less 样式文件
+      /logo.png           | 组件用到的图片
     /tab                  |
     /footer               |
     /banner               |
-/pages                    |
- /index                   |
- /list                    |
- /info                    |
+/pages                    | * 前端页面目录
+  /index                  | 一个页面一个目录(独立)
+    /setup.json           | * 页面呈现用的默认json文件
+    /index.html           | 存放页面所产生的所有文件
+    /index.js             |
+    /index.css            |
+    /ad1.png              |
+  /list                   |
+  /info                   |
+/dist                     | * 发布目录
+  /img                    | * 图片目录
+  /js                     | * js目录
+  /css                    | * css目录
+  /page                   | * 页面目录
+/doc                      | 文档目录
 README.md                 | 项目说明文件
+.gitignore                | git过滤文件
+package.json              | 包管理配置文件
 
-## 
+## .gitignore 配置
 
+## package.json 配置
 
+## fis-conf.js 配置
 
+## 实时预览
+
+## 发布
 
 
