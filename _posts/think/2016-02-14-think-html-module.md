@@ -87,8 +87,7 @@ npm
 
 > 带 * 目录/文件 名都是固定的
 
-目录名称                   | 说明
---------------------------|---------------------------------
+```
 |--node_modules           | * node包管理目录（静态前端项目不要启用）
 |--assets                 | 资源目录 js css image flash 可以放在cdn上
 |  `--img                 | 图片
@@ -138,6 +137,7 @@ README.md                 | 项目说明文件
 .jshintrc                 | jshint语法检查配置
 package.json              | 包管理配置文件
 fis-config.js             | fis配置文件
+```
 
 ## css 模块设计
 
