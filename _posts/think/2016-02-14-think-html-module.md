@@ -101,6 +101,10 @@ npm
 |--components             | * 项目组件目录
 |  |--css-modules         | * css模块目录
 |     |--bootstrap-sass   | * bootstrap 重写元素目录
+|        |--variables     | * 参数目录
+|        |--variables.scss| * 参数汇总文件
+|        |--mixins        | * 宏目录
+|        `--mixins.scss   | * 宏汇总文件
 |     |--sass             | * sass目录
 |        |--skins         | * 皮肤目录
 |        |--variables     | * 参数目录
@@ -245,18 +249,67 @@ $min-height: 40px;     //组件的最小高度
 ...
 ```
 
+## bootstrap sass 二次开发
+
+目录文件方案同上
+
 ## .gitignore 配置
 
 ```
-
+*.DS_Store
+*.log
+*.zip
+.idea
+.sass-cache/
+node_modules/
+bower_components/
+release/
 ```
 
 ## package.json 配置
 
-## fis-conf.js 配置
+```javascript
+{
+  "name": "pc-web-fis3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "fis3 server start && fis3 release -wL",
+    "release": "fis3 release",
+    "dist": "fis3 release -d ./release",
+    "open": "fis3 server open"
+  },
+  "author": "",
+  "license": "ISC"
+}
+```
 
-## 实时预览
+- 开启调试服务器
 
-## 发布
+```
+npm run start
+```
+
+- 更新开发内容
+
+```
+npm run release
+```
+
+- 发布到 release 目录文件方案同上
+
+```
+npm run dist
+```
+
+- 打开调试目录
+
+```
+npm run open
+```
 
 
