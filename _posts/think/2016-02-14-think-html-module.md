@@ -89,14 +89,22 @@ npm
 
 目录名称                   | 说明
 --------------------------|---------------------------------
-/node_modules             | * node包管理目录（静态前端项目不要启用）
-/plugins                  | * 手动下载整理的第三方包目录
-  /bootstrap              | 手动整理的 bootstrap
-  /jquery                 | 手动整理的 jquery
-  /jqueryui               | 手动整理的 jqueryui
-/components               | * 项目组件目录
-  /css-modules            | * css模块目录
-    /bootstrap-sass       | bootstrap 重写元素目录
+|--node_modules           | * node包管理目录（静态前端项目不要启用）
+|--assets                 | 资源目录 js css image flash 可以放在cdn上
+|  `--img                 | 图片
+|--plugins                | * 手动下载整理的第三方包目录
+|  |--bootstrap           | 手动整理的 bootstrap
+|  |--jquery              | 手动整理的 jquery
+|  `--jqueryui            | 手动整理的 jqueryui
+|--components             | * 项目组件目录
+|  |--css-modules         | * css模块目录
+|     |--bootstrap-sass   | * bootstrap 重写元素目录
+|     |--sass             |
+|        |--skins         | * 皮肤目录
+|        |--variables     | * 参数目录
+|        |--variables.scss| * 参数汇总文件
+|        |--mixins        | * 宏目录
+|        `--mixins.scss   | * 宏汇总文件
   /js-modules             | * js模块化目录
     /app.config.js        | 项目配置js文件
     /ajax.js              | ajax调用js文件
@@ -115,11 +123,11 @@ npm
     /setup.json           | * 页面呈现用的默认json文件
     /index.html           | 存放页面所产生的所有文件
     /index.js             |
-    /index.css            |
+    /index.less           |
     /ad1.png              |
   /list                   |
   /info                   |
-/dist                     | * 发布目录
+/release/dist             | * 发布目录
   /img                    | * 图片目录
   /js                     | * js目录
   /css                    | * css目录
@@ -127,7 +135,17 @@ npm
 /doc                      | 文档目录
 README.md                 | 项目说明文件
 .gitignore                | git过滤文件
+.jshintrc                 | jshint语法检查配置
 package.json              | 包管理配置文件
+fis-config.js             | fis配置文件
+
+## css 模块设计
+
+- 目录文件
+
+- 依赖关系
+
+- 使用方式
 
 ## .gitignore 配置
 
