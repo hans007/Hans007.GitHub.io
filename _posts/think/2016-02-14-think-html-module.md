@@ -93,7 +93,8 @@ npm
 > 带 * 目录/文件 名都是固定的
 
 ```
-|--node_modules           | * node包管理目录（静态前端项目不要启用）
+|--bower_components       | * 前端包目录（前端页面使用）
+|--node_modules           | * node包目录（工具&工程化支撑 babel gulp）
 |--plugins                | * 手动下载整理的第三方包目录
 |  |--bootstrap           | * 手动整理的 bootstrap
 |  |--jquery              | * 手动整理的 jquery
@@ -288,6 +289,8 @@ release/
 }
 ```
 
+> scripts 部分配置了fis3的cli
+
 - 开启调试服务器
 
 ```
@@ -311,5 +314,20 @@ npm run dist
 ```
 npm run open
 ```
+
+## 组件抽取
+
+- 设计考虑
+
+> 页面重用
+> 以后可重用
+
+- 顶部
+- 底部
+
+## 页面抽取
+
+## js模块化
+
 
 
