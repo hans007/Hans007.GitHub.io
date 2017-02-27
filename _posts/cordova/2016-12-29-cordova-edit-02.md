@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cordova - 第二节: 创建自己的内容&使用插件
+title: cordova - 第二节 创建自己的内容&使用插件
 category: cordova
 tags:
   - cordova
