@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  markdown - 语法详细
+title:  markdown - 语法详细02
 category: markdown
 tags: 
   - markdown
