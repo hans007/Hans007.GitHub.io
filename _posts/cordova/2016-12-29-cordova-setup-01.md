@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cordova - 第一节:安装&运行&编译
+title: cordova - 第一节-安装&运行&编译
 category: cordova
 tags:
   - cordova
