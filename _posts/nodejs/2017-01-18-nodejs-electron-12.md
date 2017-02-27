@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nodejs - 第十二节: 用electron发布成独立程序
+title: nodejs - 第十二节-用electron发布成独立程序
 category: nodejs
 tags:
   - nodejs
