@@ -95,10 +95,8 @@ npm
 ```
 |--bower_components       | * 前端包目录（前端页面使用）
 |--node_modules           | * node包目录（工具&工程化支撑 babel gulp）
+|--bin                    | * 存放可执行二进制文件的目录
 |--plugins                | * 手动下载整理的第三方包目录
-|  |--bootstrap           | * 手动整理的 bootstrap
-|  |--jquery              | * 手动整理的 jquery
-|  `--jqueryui            | * 手动整理的 jqueryui
 |--components             | * 项目组件目录
 |  |--css-modules         | * css模块目录
 |     |--bootstrap-sass   | * bootstrap 重写元素目录
@@ -106,7 +104,7 @@ npm
 |        |--variables.scss| * 参数汇总文件
 |        |--mixins        | * 宏目录
 |        `--mixins.scss   | * 宏汇总文件
-|     |--sass             | * sass目录
+|     `--sass             | * sass目录
 |        |--skins         | * 皮肤目录
 |        |--variables     | * 参数目录
 |        |--variables.scss| * 参数汇总文件
@@ -132,11 +130,14 @@ npm
 |     `--ad1.png          |
 |  |--list                |
 |  `--info                |
-|--assets                 | * 资源目录 js css image flash 可以放在cdn上
-|  `--img                 | * 图片
+|--assets                 | * 资源目录,可以放在cdn上
+|  |--img                 | * 图片
+|  |--data                | * 数据
+|  `--font                | * 字体
 |--release                | * 发布目录
-|  |--dist                | * 交付目录（产品独立包）
+|  `--dist                | * 交付目录（产品独立包）
 |--doc                    | * 文档目录
+|--test                   | * 用于存放单元测试用例的代码
 |--README.md              | * 项目说明文件
 |--.gitignore             | * git过滤文件
 |--.jshintrc              | * jshint语法检查配置

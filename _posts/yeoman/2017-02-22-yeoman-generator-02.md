@@ -109,6 +109,30 @@ npm link
 > 用户每次就可以直接 npm install -g generator-`你的脚手架项目名称`
 > 貌似每次脚手架更新还是需要更新一次，性质和git一样，但是都是 `npm cli` 操作比较方便
 
+- 注册账号
+
+https://www.npmjs.com/signup
+
+- cli登录
+
+```bash
+npm login
+```
+
+> 输入账号、密码、联系email
+
+- 发布
+
+```bash
+npm publish
+```
+
+- 常见错误
+
+> no_perms Private mode enable, only admin can publish this module
+> 修改仓库地址 npm config set registry http://registry.npmjs.org
+> 修改完后 还是需要重新 npm login
+
 # 安装使用
 
 ```
