@@ -133,6 +133,8 @@ npm publish
 > 修改仓库地址 npm config set registry http://registry.npmjs.org
 > 修改完后 还是需要重新 npm login
 
+> 每次上传前记得修改版本号 package.json version ++
+
 # 安装使用
 
 ```

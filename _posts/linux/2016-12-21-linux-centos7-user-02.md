@@ -28,6 +28,7 @@ vi /etc/passwd
 
 ```
 chown -R yuu:yuu yuumanage
+chown -R www:www yuumanage
 ```
 
 > -R 所有子目录
