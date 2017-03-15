@@ -40,6 +40,12 @@ tree -L 3 -I "node_modules" --dirsfirst
 tree -L 3 -I "node_modules" --dirsfirst -a
 ```
 
+-- 支持中文
+
+```
+tree -N
+```
+
 # 帮助
 
 ```
