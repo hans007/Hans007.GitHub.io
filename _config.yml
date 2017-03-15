@@ -13,17 +13,27 @@ paginate: 10
 #paginate_path: "hansBlog/page:num"
 
 # Markdown Processors
-markdown: redcarpet
-redcarpet:
+# markdown: redcarpet
+# redcarpet:
+#   extensions:
+#     - hard_wrap
+#     - no_intra_emphasis
+#     - autolink
+#     - strikethrough
+#     - tables
+#     - lax_spacing
+#     - with_toc_data
+markdown: kramdown
+kramdown:
+  input: GFM
   extensions:
-    - hard_wrap
-    - no_intra_emphasis
     - autolink
-    - strikethrough
-    - tables
-    - lax_spacing
-    - with_toc_data
-    
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
 
 title : hans's Blog
 tagline: A technology blog for myself.
