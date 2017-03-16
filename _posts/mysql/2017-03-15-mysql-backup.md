@@ -43,6 +43,8 @@ chmod 755 /opt/backup.sh
 ```sh
 vi /etc/crontab
 0 1 * * * root /opt/backup.sh
+
+/sbin/service crond restart
 ```
 
 > 这里设置为每天凌晨1点自动备份
