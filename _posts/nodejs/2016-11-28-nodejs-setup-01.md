@@ -16,7 +16,7 @@ tags:
 
 ```
 yum install -y gcc-c++ make
-curl -sL https://rpm.nodesource.com/setup_6.x | sudo -E bash -
+curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
 
 yum -y install nodejs
 yum -y install nodejs npm
