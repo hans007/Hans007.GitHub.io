@@ -40,6 +40,13 @@ vi /etc/shadowsocks.json
 ssserver -c /etc/shadowsocks.json -d start #启动 
 ssserver -c /etc/shadowsocks.json -d stop #停止
 
+## boot
+
+```
+vi /etc/rc.d/rc.local
+ssserver -c /etc/shadowsocks.json -d start
+```
+
 ## dns
 
 ```
