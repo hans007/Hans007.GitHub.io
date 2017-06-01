@@ -47,10 +47,26 @@ vi /etc/rc.d/rc.local
 ssserver -c /etc/shadowsocks.json -d start
 ```
 
+## nscd hosts缓存
+
+```
+yum install -y nscd
+/etc/rc.d/init.d/nscd start
+/etc/rc.d/init.d/nscd restart
+
+vi /etc/nscd.conf
+enable-cache hosts yes
+```
+
 ## dns
 
 ```
-[root@VPS ~]# vi /etc/resolv.conf
+vi /etc/sysconfig/network-scripts/ifcfg-eth0
+dns1=8.8.8.8
+dns2=8.8.4.4
+
+vi /etc/resolv.conf
 nameserver 8.8.8.8
 nameserver 8.8.4.4
 ```
+

@@ -9,6 +9,40 @@ tags:
 
 # centos6常用shell
 
+## 网卡配置
+
+- 查看ip
+  
+  ifconfig
+
+- 改自动获取
+
+  vi /etc/sysconfig/network-scripts/ifcfg-eth0
+  ONBOOT=yes
+
+- 静态
+
+  1）编辑配置文件,添加修改以下内容
+
+    vi  /etc/sysconfig/network-scripts/ifcfg-eth0   
+
+    BOOTPROTO=static   #启用静态IP地址
+    ONBOOT=yes  #开启自动启用网络连接
+    IPADDR=192.168.21.129  #设置IP地址
+    NETMASK=255.255.255.0  #设置子网掩码
+    GATEWAY=192.168.21.2   #设置网关
+    DNS1=8.8.8.8 #设置主DNS
+    DNS2=8.8.4.4 #设置备DNS
+    IPV6INIT=no  #禁止IPV6
+    :wq!  #保存退出
+
+  2）修改完后执行以下命令
+
+    service ip6tables stop   #停止IPV6服务
+    chkconfig ip6tables off  #禁止IPV6开机启动
+    service network restart  #重启网络连接
+    ifconfig  #查看IP地址
+
 ## 系统启动加载
 
 vi /etc/rc.d/rc.local
