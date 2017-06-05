@@ -38,6 +38,15 @@ wget -c http://soft.vpser.net/lnmp/lnmp1.4.tar.gz && tar zxf lnmp1.4.tar.gz && c
 
 ## 修改nginx配置
 
+```
+cd /usr/local/nginx/conf/vhost/
+vi host...
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+```
+
 ## 调试方便打开php.ini配置
 **生产环境请关闭**
 
@@ -72,4 +81,10 @@ fastcgi_param PHP_ADMIN_VALUE "open_basedir=$document_root/:/tmp/:/proc/:/home/w
 
 如果本机测试开发，直接注释本行
 # fastcgi_param PHP_ADMIN_VALUE ...
+```
+
+## 重启环境
+
+```
+lnmp reload
 ```
