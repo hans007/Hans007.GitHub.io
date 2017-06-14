@@ -13,10 +13,6 @@ tags:
 - centos 6.9
 - php 5.6
 
-## 项目位置
-
-/home/wwwroot/default/blog
-
 ## 安装 lnmp集成环境
 
 - lnmp.org
@@ -26,15 +22,25 @@ tags:
 wget -c http://soft.vpser.net/lnmp/lnmp1.4.tar.gz && tar zxf lnmp1.4.tar.gz && cd lnmp1.4 && ./install.sh lnmp
 ```
 
-## 安装 laravel项目
+## 创建项目
 
-- 指南
-    https://laravel.com/
-    https://docs.golaravel.com/docs/5.4/installation/
+```
+laravel new blog
+or
+composer create-project --prefer-dist laravel/laravel blog
+```
 
 ## 安装 composer
 
 - [安装composer](https://hans007.github.io/php/2017/05/27/php-composer)
+
+- `坑`
+
+```
+The Process class relies on proc_open, which is not available on your PHP installation.
+```
+
+在php.ini中，找到disable_functions选项，看看后面是否有  proc_open proc_get_status 函数被禁用了，如果有的话，去掉即可
 
 ## 修改nginx配置
 
@@ -42,9 +48,10 @@ wget -c http://soft.vpser.net/lnmp/lnmp1.4.tar.gz && tar zxf lnmp1.4.tar.gz && c
 cd /usr/local/nginx/conf/vhost/
 vi host...
 
-    location / {
-        try_files $uri $uri/ /index.php?$query_string;
-    }
+        location / {
+            try_files $uri $uri/ /index.php?$query_string;
+        }
+        
 ```
 
 ## 调试方便打开php.ini配置
@@ -83,8 +90,30 @@ fastcgi_param PHP_ADMIN_VALUE "open_basedir=$document_root/:/tmp/:/proc/:/home/w
 # fastcgi_param PHP_ADMIN_VALUE ...
 ```
 
+## 配置目录权限
+
+```
+chattr -i blog/public/.user.ini
+chown -R www:www blog/
+chattr +i blog/public/.user.ini
+cd blog/
+chmod -R 775 storage
+chmod -R 775 bootstrap
+```
+
+## 配置key
+
+```
+php artisan key:generate
+```
+
 ## 重启环境
 
 ```
 lnmp reload
 ```
+
+## 文档
+
+- https://laravel.com/
+- https://docs.golaravel.com/docs/5.4/installation/

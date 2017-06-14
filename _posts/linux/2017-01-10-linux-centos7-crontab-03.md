@@ -33,6 +33,12 @@ yum install cronie
 /sbin/service crond reload
 ```
 
+## 开机启动
+
+```
+chkconfig crond on
+```
+
 ## centos7 操作
 
 ```

@@ -15,11 +15,16 @@ tags:
 - 命令行方式
 
 ```
+
+环境
 yum install -y gcc-c++ make
 curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
 
+老版本先删除
+yum remove -y nodejs npm
+
+安装
 yum -y install nodejs
-yum -y install nodejs npm
 ```
 
 - 如果安装冲突 建议删除安装
