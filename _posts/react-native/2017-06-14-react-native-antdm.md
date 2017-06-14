@@ -21,6 +21,11 @@ npm install -g yarn
 npm install -g react-native-cli
 ```
 
+> 如果没有 Homebrew
+>
+> /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+>
+
 ## 配置 `yarn` `npm` 国内镜像
 
 参考: https://npm.taobao.org/
@@ -45,8 +50,6 @@ react-native init myapp
 
 过程漫长，请先 `科学上网`
 
-
-
 ## 运行
 
 ```sh
@@ -68,14 +71,14 @@ yarn add babel-plugin-import -dev
 
 - 修改 `.babelrc`
 
+参考: https://github.com/ant-design/babel-plugin-import
+
 ```json
 {
   "presets": ["react-native"],
   "plugins": [["import", { "libraryName": "antd-mobile", "style": true }]]
 }
 ```
-
-参考: https://github.com/ant-design/babel-plugin-import
 
 - 修改 `index.ios.js`
 
@@ -93,4 +96,4 @@ class HelloWorldApp extends Component {
 AppRegistry.registerComponent('HelloWorldApp', () => HelloWorldApp);
 ```
 
-在模拟器中 `Cmd+R`
+在模拟器中 `Cmd+R` 重新载入程序
