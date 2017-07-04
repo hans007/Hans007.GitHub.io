@@ -40,7 +40,11 @@ yum remove nodejs npm -y
 - 升级
 
 ```
-$ sudo npm install npm -g
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n 6.11.00
+or
+sudo n stable
 ```
 
 # 测试环境 helloword

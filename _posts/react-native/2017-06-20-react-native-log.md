@@ -58,6 +58,7 @@ https://github.com/magicismight/react-native-lazyload
 
 yarn add react-native-lazyload
 
+```js
 <LazyloadScrollView name="lazyload-list" style={indexStyle.container}>
 <LazyloadImage
                         host="lazyload-list"
@@ -66,14 +67,56 @@ yarn add react-native-lazyload
                         uri: rowData.item.icon
                     }}/>
 </LazyloadScrollView>
+```
 
 ## remote debugger is in a background tab ...
 
 chrome调试器，单独页打开不要跑到后台，就不会出现这个烦人的提示了~
 
-## 
+## clone对象
 
+```js
+import _ from 'lodash'
 
+const obj = {
+    a:1,
+    b:2
+}
+const newObj = _.cloneDeep(obj);
+```
+
+## 对两个对象进行验证
+
+```js
+JSON.stringify(obj) == JSON.stringify(newObj)   //true
+obj == newObj                                   //false
+```
+
+## 本地缓存
+
+```js
+import { AsyncStorage } from 'react-native';
+
+// 设置
+let storageKey = `index2:toy:${params.toyType}`;
+AsyncStorage.setItem(storageKey, JSON.stringify(dataList), 
+    err => {
+        if(!err){
+            console.log(`AsyncStorage set ok => ${storageKey}`);
+        }
+    }
+);
+
+// 读取
+let storageKey = `index2:toy:${toyType}`;
+AsyncStorage.getItem(storageKey).then((value) => {
+    let jsonValue = JSON.parse(value);
+    if(jsonValue!=null){
+        console.log(`AsyncStorage get ok => ${storageKey}`);
+        dispatch(setupData(jsonValue, params));
+    }
+});
+```
 
 
 
