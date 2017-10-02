@@ -118,7 +118,32 @@ AsyncStorage.getItem(storageKey).then((value) => {
 });
 ```
 
+## import 特点
 
+默认文件 `index.js`
+
+## 判断android还是ios
+
+var Platform = require('Platform');
+if (Platform.OS === 'android') {
+    //todo  
+}else{  
+    //todo  
+}  
+
+## Toast 在Modal中使用 被覆盖
+
+https://github.com/ant-design/ant-design-mobile/issues/547
+
+## 本机调试 android
+
+- 查看设备 `adb devices`
+- 安装 `react-native run-android`
+- 安装发布 `react-native run-android --variant=release`
+- [签名](http://reactnative.cn/docs/0.46/signed-apk-android.html)
+- 打开开发者菜单 `adb shell input keyevent 82`
+- `Dev Settings` -> `Debug server host for device` -> `本机IP:8081` -> `Reload JS`
+- 如果配置完还是白屏 ，重新安装 `react-native run-android`
 
 
 
